@@ -1,0 +1,1 @@
+<?php echo e(sanitize_html($content)); ?><?php /**PATH C:\Users\Admin\Music\Downloads\JobPortal-main\resources\views/mail/interview-notification.blade.php ENDPATH**/ ?>
